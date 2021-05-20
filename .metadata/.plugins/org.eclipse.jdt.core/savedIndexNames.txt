@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\kongj\OneDrive\바탕 화면\Task\2020-2\네트워크프로그래밍(정인환)\Term\NoTouchKraken\.metadata\.plugins\org.eclipse.jdt.core
+1328541628.index
+232512280.index
+789344348.index
+2431781563.index
